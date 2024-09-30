@@ -50,7 +50,7 @@ body {
 }
 
 .heading_container h2 span {
-  color: #00bbf0;
+  color: #f00054;
 }
 
 .heading_container p {
@@ -145,7 +145,7 @@ a:focus {
 
 .navbar-brand span {
   font-weight: bold;
-  font-size: 24px;
+  font-size:30px;
   color: #ff0101;
 }
 
@@ -306,7 +306,7 @@ a:focus {
 .slider_section .detail-box .btn-box .btn1 {
   display: inline-block;
   padding: 10px 15px;
-  background-color: #05a8d5;
+  background-color: #f07020;
   color: #ffffff;
   border-radius: 0;
   -webkit-transition: all 0.3s;
@@ -315,7 +315,7 @@ a:focus {
 }
 
 .slider_section .detail-box .btn-box .btn1:hover {
-  background-color: #007fa4;
+  background-color: #d8630a;
 }
 
 .slider_section .detail-box .btn-box .btn2 {
@@ -415,7 +415,7 @@ a:focus {
           align-items: center;
   text-align: center;
   margin-top: 45px;
-  background-color: #f8f8f9;
+  background-color: #f1f2ec;
   padding: 20px;
   border-radius: 5px;
 }
@@ -483,8 +483,8 @@ a:focus {
 }
 
 .about_section {
-  background-color: #356ba8;
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #101010;
 }
 
 .about_section .heading_container {
@@ -775,8 +775,8 @@ a:focus {
 
 /* client section end */
 .info_section {
-  background-color: #5a8fd5;
-  color: #fffb00;
+  background-color: #fffccc;
+  color: #b39303;
   padding: 45px 0 15px 0;
 }
 
@@ -801,7 +801,7 @@ a:focus {
 
 .info_section .info_contact .contact_link_box a {
   margin: 5px 0;
-  color: #ffffff;
+  color: #520303;
 }
 
 .info_section .info_contact .contact_link_box a i {
@@ -809,7 +809,7 @@ a:focus {
 }
 
 .info_section .info_contact .contact_link_box a:hover {
-  color: #00bbf0;
+  color: #304348;
 }
 
 .info_section .info_social {
@@ -860,11 +860,11 @@ a:focus {
       -ms-flex-align: center;
           align-items: center;
   margin-bottom: 15px;
-  color: #ffffff;
+  color: #520303;
 }
 
 .info_section .info_links a:hover {
-  color: #00bbf0;
+  color: #304348;
 }
 
 .info_section form input {
@@ -898,7 +898,7 @@ a:focus {
   text-align: center;
   display: inline-block;
   padding: 10px 55px;
-  background-color: #00bbf0;
+  background-color: #0e3c49;
   color: #ffffff;
   border-radius: 0;
   -webkit-transition: all 0.3s;
